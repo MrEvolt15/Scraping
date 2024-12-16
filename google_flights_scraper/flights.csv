@@ -1,0 +1,201 @@
+price,airline,departure_time,arrival_time,duration,stops
+$792,Los Angeles,"Sun, Dec 15","Sun, Jan 19",12 hr 21 min,1 stop
+"$1,228",Paris,"Sun, Dec 15","Sun, Jan 19",13 hr 45 min,1 stop
+$683,New York,"Sun, Dec 15","Sun, Jan 19",9 hr 46 min,1 stop
+$795,Las Vegas,"Sun, Dec 15","Sun, Jan 19",11 hr 46 min,1 stop
+$666,San Francisco,"Sun, Dec 15","Sun, Jan 19",15 hr 43 min,1 stop
+$536,Chicago,"Sun, Dec 15","Sun, Jan 19",9 hr 21 min,1 stop
+$464,"Washington, D.C.","Sun, Dec 15","Sun, Jan 19",15 hr 37 min,1 stop
+"$1,174",Lisbon,"Sun, Dec 15","Sun, Jan 19",14 hr 40 min,1 stop
+$794,Miami,"Sun, Dec 15","Sun, Jan 19",9 hr 3 min,1 stop
+$463,Boston,"Sun, Dec 15","Sun, Jan 19",9 hr 38 min,1 stop
+,London,"Sun, Dec 15","Sun, Jan 19",,
+,Rome,"Sun, Dec 15","Sun, Jan 19",,
+,Venice,"Sun, Dec 15","Sun, Jan 19",,
+,Barcelona,"Sun, Dec 15","Sun, Jan 19",,
+"$1,100",Amsterdam,"Sun, Dec 15","Sun, Jan 19",18 hr,1 stop
+"$1,174",Lisbon,"Sun, Dec 15","Sun, Jan 19",14 hr 40 min,1 stop
+,Berlin,"Sun, Dec 15","Sun, Jan 19",,
+,Edinburgh,"Sun, Dec 15","Sun, Jan 19",,
+,Prague,"Sun, Dec 15","Sun, Jan 19",,
+"$1,432",Seattle,"Sun, Dec 15","Sun, Jan 19",13 hr 45 min,1 stop
+$759,San Diego,"Sun, Dec 15","Sun, Jan 19",13 hr 3 min,1 stop
+$720,New Orleans,"Sun, Dec 15","Sun, Jan 19",10 hr 4 min,1 stop
+$865,Toronto,"Sun, Dec 15","Sun, Jan 19",11 hr 7 min,1 stop
+,Vancouver,"Sun, Dec 15","Sun, Jan 19",,
+$930,Orlando,"Sun, Dec 15","Sun, Jan 19",8 hr 56 min,1 stop
+,Florence,"Sun, Dec 15","Sun, Jan 19",,
+,Vienna,"Sun, Dec 15","Sun, Jan 19",,
+,Madrid,"Sun, Dec 15","Sun, Jan 19",,
+,İstanbul,"Sun, Dec 15","Sun, Jan 19",,
+,Budapest,"Sun, Dec 15","Sun, Jan 19",,
+,Dublin,"Sun, Dec 15","Sun, Jan 19",,
+,Copenhagen,"Sun, Dec 15","Sun, Jan 19",,
+,Dubrovnik,"Sun, Dec 15","Sun, Jan 19",,
+,Milan,"Sun, Dec 15","Sun, Jan 19",,
+"$1,364",Atlanta,"Sun, Dec 15","Sun, Jan 19",5 hr 21 min,Nonstop
+"$1,761",Philadelphia,"Sun, Dec 15","Sun, Jan 19",9 hr 12 min,1 stop
+$672,Denver,"Sun, Dec 15","Sun, Jan 19",20 hr 9 min,1 stop
+,Portland,"Sun, Dec 15","Sun, Jan 19",,
+$679,Montreal,"Sun, Dec 15","Sun, Jan 19",11 hr 47 min,1 stop
+"$1,700",Austin,"Sun, Dec 15","Sun, Jan 19",12 hr 50 min,1 stop
+$771,Nashville,"Sun, Dec 15","Sun, Jan 19",9 hr 27 min,1 stop
+,Munich,"Sun, Dec 15","Sun, Jan 19",,
+,Stockholm,"Sun, Dec 15","Sun, Jan 19",,
+"$1,778",Porto,"Sun, Dec 15","Sun, Jan 19",16 hr 35 min,1 stop
+,Zürich,"Sun, Dec 15","Sun, Jan 19",,
+,Manchester,"Sun, Dec 15","Sun, Jan 19",,
+,Naples,"Sun, Dec 15","Sun, Jan 19",,
+,Glasgow,"Sun, Dec 15","Sun, Jan 19",,
+,Valencia,"Sun, Dec 15","Sun, Jan 19",,
+,Salzburg,"Sun, Dec 15","Sun, Jan 19",,
+"$1,250",Marrakesh,"Sun, Dec 15","Sun, Jan 19",13 hr 40 min,1 stop
+"$2,077",Houston,"Sun, Dec 15","Sun, Jan 19",9 hr 34 min,1 stop
+"$1,778",Porto,"Sun, Dec 15","Sun, Jan 19",16 hr 35 min,1 stop
+,Mexico City,"Sun, Dec 15","Sun, Jan 19",,
+,Saint Lucia,"Sun, Dec 15","Sun, Jan 19",,
+"$1,219",Charleston,"Sun, Dec 15","Sun, Jan 19",9 hr 23 min,1 stop
+$922,Dallas,"Sun, Dec 15","Sun, Jan 19",17 hr 15 min,2 stops
+,Cancún,"Sun, Dec 15","Sun, Jan 19",,
+,Bordeaux,"Sun, Dec 15","Sun, Jan 19",,
+,Kraków,"Sun, Dec 15","Sun, Jan 19",,
+,Oslo,"Sun, Dec 15","Sun, Jan 19",,
+,Hamburg,"Sun, Dec 15","Sun, Jan 19",,
+,Frankfurt,"Sun, Dec 15","Sun, Jan 19",,
+,Nice,"Sun, Dec 15","Sun, Jan 19",,
+,Helsinki,"Sun, Dec 15","Sun, Jan 19",,
+,Dubai,"Sun, Dec 15","Sun, Jan 19",,
+,Reykjavík,"Sun, Dec 15","Sun, Jan 19",,
+$836,San Antonio,"Sun, Dec 15","Sun, Jan 19",10 hr 53 min,1 stop
+,Phoenix,"Sun, Dec 15","Sun, Jan 19",,
+,Québec City,"Sun, Dec 15","Sun, Jan 19",,
+,Tenerife,"Sun, Dec 15","Sun, Jan 19",,
+,Tampa,"Sun, Dec 15","Sun, Jan 19",,
+,Aruba,"Sun, Dec 15","Sun, Jan 19",,
+,Grenada,"Sun, Dec 15","Sun, Jan 19",,
+$794,Fort Lauderdale,"Sun, Dec 15","Sun, Jan 19",9 hr 3 min,1 stop
+,Belfast,"Sun, Dec 15","Sun, Jan 19",,
+,Bristol,"Sun, Dec 15","Sun, Jan 19",,
+,Marseille,"Sun, Dec 15","Sun, Jan 19",,
+,Bath,"Sun, Dec 15","Sun, Jan 19",,
+,Cologne,"Sun, Dec 15","Sun, Jan 19",,
+,Hong Kong,"Sun, Dec 15","Sun, Jan 19",,
+,Tokyo,"Sun, Dec 15","Sun, Jan 19",,
+,Bangkok,"Sun, Dec 15","Sun, Jan 19",,
+,Athens,"Sun, Dec 15","Sun, Jan 19",,
+,İstanbul,"Sun, Dec 15","Sun, Jan 19",,
+,Mumbai,"Sun, Dec 15","Sun, Jan 19",,
+,Mykonos,"Sun, Dec 15","Sun, Jan 19",,
+,Jaipur,"Sun, Dec 15","Sun, Jan 19",,
+,New Delhi,"Sun, Dec 15","Sun, Jan 19",,
+,Savannah,"Sun, Dec 15","Sun, Jan 19",,
+,Hanoi,"Sun, Dec 15","Sun, Jan 19",,
+,Goa,"Sun, Dec 15","Sun, Jan 19",,
+,Seoul,"Sun, Dec 15","Sun, Jan 19",,
+,Chiang Mai,"Sun, Dec 15","Sun, Jan 19",,
+,Beijing,"Sun, Dec 15","Sun, Jan 19",,
+,Ho Chi Minh City,"Sun, Dec 15","Sun, Jan 19",,
+,Shanghai,"Sun, Dec 15","Sun, Jan 19",,
+,Osaka,"Sun, Dec 15","Sun, Jan 19",,
+,Kraków,"Sun, Dec 15","Sun, Jan 19",,
+,Phuket,"Sun, Dec 15","Sun, Jan 19",,
+,Abu Dhabi,"Sun, Dec 15","Sun, Jan 19",,
+,Bengaluru,"Sun, Dec 15","Sun, Jan 19",,
+,Cairo,"Sun, Dec 15","Sun, Jan 19",,
+,Helsinki,"Sun, Dec 15","Sun, Jan 19",,
+,Honolulu,"Sun, Dec 15","Sun, Jan 19",,
+,Moscow,"Sun, Dec 15","Sun, Jan 19",,
+,Warsaw,"Sun, Dec 15","Sun, Jan 19",,
+,Tallinn,"Sun, Dec 15","Sun, Jan 19",,
+,Varanasi,"Sun, Dec 15","Sun, Jan 19",,
+,Udaipur,"Sun, Dec 15","Sun, Jan 19",,
+,Kauai,"Sun, Dec 15","Sun, Jan 19",,
+,Agra,"Sun, Dec 15","Sun, Jan 19",,
+,Kolkata,"Sun, Dec 15","Sun, Jan 19",,
+,Ko Samui,"Sun, Dec 15","Sun, Jan 19",,
+,Chennai,"Sun, Dec 15","Sun, Jan 19",,
+,Taipei City,"Sun, Dec 15","Sun, Jan 19",,
+,Kochi,"Sun, Dec 15","Sun, Jan 19",,
+,Bucharest,"Sun, Dec 15","Sun, Jan 19",,
+,Tel Aviv-Yafo,"Sun, Dec 15","Sun, Jan 19",,
+,Macao,"Sun, Dec 15","Sun, Jan 19",,
+,Singapore,"Sun, Dec 15","Sun, Jan 19",,
+,Dubai,"Sun, Dec 15","Sun, Jan 19",,
+"$8,574",Hong Kong,"Sun, Dec 15","Sun, Jan 19",29 hr 55 min,2 stops
+,Bangkok,"Sun, Dec 15","Sun, Jan 19",,
+,Cape Town,"Sun, Dec 15","Sun, Jan 19",,
+,Malta,"Sun, Dec 15","Sun, Jan 19",,
+,Mauritius Island,"Sun, Dec 15","Sun, Jan 19",,
+"$1,250",Marrakesh,"Sun, Dec 15","Sun, Jan 19",13 hr 40 min,1 stop
+"$6,818",Mumbai,"Sun, Dec 15","Sun, Jan 19",26 hr 10 min,2 stops
+,Jaipur,"Sun, Dec 15","Sun, Jan 19",,
+,Rio de Janeiro,"Sun, Dec 15","Sun, Jan 19",,
+,New Delhi,"Sun, Dec 15","Sun, Jan 19",,
+,Hanoi,"Sun, Dec 15","Sun, Jan 19",,
+,Goa,"Sun, Dec 15","Sun, Jan 19",,
+"$11,934",Chiang Mai,"Sun, Dec 15","Sun, Jan 19",35 hr 6 min,2 stops
+,Federal Territory of Kuala Lumpur,"Sun, Dec 15","Sun, Jan 19",,
+,Ho Chi Minh City,"Sun, Dec 15","Sun, Jan 19",,
+,Shanghai,"Sun, Dec 15","Sun, Jan 19",,
+,Perth,"Sun, Dec 15","Sun, Jan 19",,
+"$2,965",Phuket,"Sun, Dec 15","Sun, Jan 19",32 hr 30 min,2 stops
+,Tenerife,"Sun, Dec 15","Sun, Jan 19",,
+,Abu Dhabi,"Sun, Dec 15","Sun, Jan 19",,
+,Granada,"Sun, Dec 15","Sun, Jan 19",,
+,Bengaluru,"Sun, Dec 15","Sun, Jan 19",,
+,Cairo,"Sun, Dec 15","Sun, Jan 19",,
+,Madeira,"Sun, Dec 15","Sun, Jan 19",,
+,Johannesburg,"Sun, Dec 15","Sun, Jan 19",,
+,Varanasi,"Sun, Dec 15","Sun, Jan 19",,
+,Udaipur,"Sun, Dec 15","Sun, Jan 19",,
+,Agra,"Sun, Dec 15","Sun, Jan 19",,
+,Kolkata,"Sun, Dec 15","Sun, Jan 19",,
+,Ko Samui,"Sun, Dec 15","Sun, Jan 19",,
+,Cape Town,"Sun, Dec 15","Sun, Jan 19",,
+,Chennai,"Sun, Dec 15","Sun, Jan 19",,
+,Taipei City,"Sun, Dec 15","Sun, Jan 19",,
+,Kochi,"Sun, Dec 15","Sun, Jan 19",,
+$691,São Paulo,"Sun, Dec 15","Sun, Jan 19",20 hr 5 min,2 stops
+,Tel Aviv-Yafo,"Sun, Dec 15","Sun, Jan 19",,
+,Macao,"Sun, Dec 15","Sun, Jan 19",,
+,Bahrain,"Sun, Dec 15","Sun, Jan 19",,
+,Kathmandu,"Sun, Dec 15","Sun, Jan 19",,
+$610,Mexico City,"Sun, Dec 15","Sun, Jan 19",7 hr 40 min,1 stop
+,Saint Lucia,"Sun, Dec 15","Sun, Jan 19",,
+,Buenos Aires,"Sun, Dec 15","Sun, Jan 19",,
+,Rio de Janeiro,"Sun, Dec 15","Sun, Jan 19",,
+"$7,076",Cancún,"Sun, Dec 15","Sun, Jan 19",11 hr 1 min,1 stop
+$868,Aruba,"Sun, Dec 15","Sun, Jan 19",18 hr 27 min,2 stops
+"$10,109",Grenada,"Sun, Dec 15","Sun, Jan 19",18 hr 34 min,2 stops
+,Honolulu,"Sun, Dec 15","Sun, Jan 19",,
+"$2,299",Key West,"Sun, Dec 15","Sun, Jan 19",11 hr 38 min,1 stop
+,Kauai,"Sun, Dec 15","Sun, Jan 19",,
+$310,Lima,"Sun, Dec 15","Sun, Jan 19",2 hr 14 min,Nonstop
+"$4,298",Puerto Vallarta,"Sun, Dec 15","Sun, Jan 19",13 hr 59 min,2 stops
+,Cartagena,"Sun, Dec 15","Sun, Jan 19",,
+"$1,537",Dominica,"Sun, Dec 15","Sun, Jan 19",20 hr 40 min,2 stops
+$691,São Paulo,"Sun, Dec 15","Sun, Jan 19",20 hr 5 min,2 stops
+,Havana,"Sun, Dec 15","Sun, Jan 19",,
+"$1,603",Cusco,"Sun, Dec 15","Sun, Jan 19",10 hr 25 min,1 stop
+,Bora Bora,"Sun, Dec 15","Sun, Jan 19",,
+,Curaçao,"Sun, Dec 15","Sun, Jan 19",,
+$571,Santiago,"Sun, Dec 15","Sun, Jan 19",20 hr 5 min,1 stop
+$293,Bogotá,"Sun, Dec 15","Sun, Jan 19",8 hr 47 min,1 stop
+$785,San Juan,"Sun, Dec 15","Sun, Jan 19",13 hr 16 min,1 stop
+,Anguilla,"Sun, Dec 15","Sun, Jan 19",,
+,Antigua,"Sun, Dec 15","Sun, Jan 19",,
+$996,Punta Cana,"Sun, Dec 15","Sun, Jan 19",17 hr 8 min,1 stop
+,Cozumel,"Sun, Dec 15","Sun, Jan 19",,
+,Oaxaca,"Sun, Dec 15","Sun, Jan 19",,
+,Medellín,"Sun, Dec 15","Sun, Jan 19",,
+,Tahiti,"Sun, Dec 15","Sun, Jan 19",,
+,Nassau,"Sun, Dec 15","Sun, Jan 19",,
+,Easter Island,"Sun, Dec 15","Sun, Jan 19",,
+,Saint Barthélemy,"Sun, Dec 15","Sun, Jan 19",,
+,Tulum,"Sun, Dec 15","Sun, Jan 19",,
+"$5,614",Merida,"Sun, Dec 15","Sun, Jan 19",16 hr 41 min,2 stops
+,Sint Maarten,"Sun, Dec 15","Sun, Jan 19",,
+,Panama City,"Sun, Dec 15","Sun, Jan 19",,
+,Mendoza,"Sun, Dec 15","Sun, Jan 19",,
+,Bonaire,"Sun, Dec 15","Sun, Jan 19",,
+,Montego Bay,"Sun, Dec 15","Sun, Jan 19",,
